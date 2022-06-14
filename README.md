@@ -1,2 +1,2 @@
-# DevOps-Darey.io-pbl-project1
-for DevOps projects
+# DevsOp-darey.io-pbl
+DevsOp-darey.io Projects
