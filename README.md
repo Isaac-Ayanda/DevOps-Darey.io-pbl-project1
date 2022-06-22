@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 
-## Linux Apache Mysql PHP (LAMP) Web Stack Implementation Project
-=======
-# DevOps-Darey.io-pbl-project1
-Linux Apache Mysql PHP (LAMP) Web Stack Implementation Project
->>>>>>> refs/remotes/origin/main
+
+# Linux Apache Mysql PHP (LAMP) Web Stack Implementation Project
+
+
+In this project, I cddeployed a LAMP stack website in AWS Cloud.
+
+ 
